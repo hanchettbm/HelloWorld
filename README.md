@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic hello world program that runs a print.
+This is a basic hello world program that runs a print statment.
 
 I Created this to demonstrate the setup of my development environment and to show github, VS-Code, and python working together.
 
