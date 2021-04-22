@@ -4,9 +4,9 @@ This is a basic hello world program that runs a print statment.
 
 I Created this to demonstrate the setup of my development environment and to show github, VS-Code, and python working together.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Here is a link to my YouTube demonstration.  It is a one minute demo of the software running and a walkthrough of the code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KttcR_2hwBs)
 
 # Development Environment
 
